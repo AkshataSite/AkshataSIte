@@ -56,7 +56,7 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-
+|||
 | [IBM](https://www.linkedin.com/company/ibm/) | Artificial Intelligence Intern | Jun 2023 - Jul 2023 |
 |||
 | [CISCO](https://www.linkedin.com/school/cisco-networking-academy1/) | Cyber Security Intern | May 2023 - Jun 2023 |
@@ -76,9 +76,13 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=AkshataSIte&show_icons=true&theme=dark&locale=en" alt="Akshata Site" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshataSIte&show_icons=true&theme=dark&locale=en&layout=compact" alt="Akshata Site" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshataSite&show_icons=true&theme=dark&locale=en&layout=compact" alt="Himanshu Barapatre" /></td>
   </tr>
   <tr>
     <td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshataSIte&show_icons=true&theme=dark" alt="Akshata Site" /></p></td>
   </tr>
 </table>
+
+    
+  
+  
