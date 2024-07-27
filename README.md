@@ -76,7 +76,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=AkshataSIte&show_icons=true&theme=dark&locale=en" alt="Akshata Site" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshataSite&show_icons=true&theme=dark&locale=en&layout=compact" alt="Himanshu Barapatre" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshataSite&show_icons=true&theme=dark&locale=en&layout=compact" alt="Akshata Site" /></td>
   </tr>
   <tr>
     <td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshataSIte&show_icons=true&theme=dark" alt="Akshata Site" /></p></td>
