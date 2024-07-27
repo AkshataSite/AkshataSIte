@@ -1,16 +1,16 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/himanshu-bara/" target="_blank"> Akshata Site </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/akshata-site/" target="_blank"> Akshata Site </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 🌱 Tilting every angle perspective to generate a visually appealing interface.🚀
 
 - 💬 Ask me about *Web Design, UI&UX, Web Development*
 
-- 👨‍💻 Check out my personal portfolio : *<a href="https://himanshu-barapatre.netlify.app/" target="_blank">Portfolio</a>*
+- 👨‍💻 Check out my personal portfolio : *<a href="https://akshata-site.netlify.app/" target="_blank">Portfolio</a>*
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/himanshu-bara/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="barapatrehimanshu3@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akshata-site/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="akshata.site@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
@@ -56,8 +56,7 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [YAWN]() | UI&UX Intern | Sep 2023 - Nov 2023 |
-|||
+
 | [IBM](https://www.linkedin.com/company/ibm/) | Artificial Intelligence Intern | Jun 2023 - Jul 2023 |
 |||
 | [CISCO](https://www.linkedin.com/school/cisco-networking-academy1/) | Cyber Security Intern | May 2023 - Jun 2023 |
@@ -73,15 +72,13 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshu-bara&repo=GraphicsHub)](https://github.com/himanshu-bara/GraphicsHub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanshu-bara&repo=Javascript-Calculator)](https://github.com/himanshu-bara/Javascript-Calculator)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=inotebook)](https://github.com/Andriyas05/inotebook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Andriyas05&repo=bmi_calculator_app-master)](https://github.com/Andriyas05/bmi_calculator_app-master)
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=himanshu-bara&show_icons=true&theme=dark&locale=en" alt="Himanshu Barapatre" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-bara&show_icons=true&theme=dark&locale=en&layout=compact" alt="Himanshu Barapatre" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AkshataSIte&show_icons=true&theme=dark&locale=en" alt="Akshata Site" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkshataSIte&show_icons=true&theme=dark&locale=en&layout=compact" alt="Akshata Site" /></td>
   </tr>
   <tr>
-    <td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-bara&show_icons=true&theme=dark" alt="Himanshu Barapatre" /></p></td>
+    <td colspan="2"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshataSIte&show_icons=true&theme=dark" alt="Akshata Site" /></p></td>
   </tr>
 </table>
